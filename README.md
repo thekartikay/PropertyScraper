@@ -1,2 +1,2 @@
 # PropertyScraper
-code to scrape property websites in India
+Code to scrape property websites in India
